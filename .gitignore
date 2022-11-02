@@ -130,3 +130,4 @@ dmypy.json
 
 #COVALENT_API_KEY
 .env
+.DS_Store
